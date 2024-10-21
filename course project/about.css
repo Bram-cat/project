@@ -1,0 +1,48 @@
+#team-members ul li img{
+    height: 230px;
+    width: 230px;
+    border-radius: 50%;
+    /* justify-content: space-between;
+    text-align: center; */
+    /* padding-left: 100px; */
+    margin-left:0px;
+    
+    
+}
+#team-members ul li{
+    list-style: none;
+    padding: 20px;
+    margin: 50px;
+    align-items: center ;
+    height: 400px;
+    justify-content: center;
+    display:inline-block;
+    text-align: center;
+
+}
+#team-members ul li h3{
+   margin-top: 10PX;
+   color: aliceblue;
+   
+}
+#team-members ul li p {
+    margin-top: 10PX;
+    color: aliceblue;
+}
+#background-img1{
+    background: url("/images/WhatsApp\ Image\ 2024-10-17\ at\ 16.33.42_fd0054e2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1200px;
+    /* text-decoration: none; */
+    /* transition: all ease-in-out; */
+}
+.abt{
+    margin-top: 30px;
+}
+#team-members{
+    display: flex;
+    justify-content: center;
+ align-items: center;
+}
